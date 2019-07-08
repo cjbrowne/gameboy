@@ -4,3 +4,5 @@ gbe
 core.dmp
 pokemonblue.gb
 gmon.out
+.idea
+cmake-build-*/
